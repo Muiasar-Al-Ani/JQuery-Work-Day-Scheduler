@@ -17,12 +17,11 @@ This a JQuery Work Day Scheduler that I created using HTML, BootStrap, CSS and, 
 
 ### Here is a screen shot of my deployed JQuery Work Day Scheduler!
 
-![ScreenShot](https://github.com/Muiasar-Al-Ani/javaScript-code-quiz/blob/main/images/JavaScript-Quiz-1.png)
-![ScreenShot](https://github.com/Muiasar-Al-Ani/javaScript-code-quiz/blob/main/images/JavaScript-Quiz-2.png)
-![ScreenShot](https://github.com/Muiasar-Al-Ani/javaScript-code-quiz/blob/main/images/JavaScript-Quiz-3.png)
-![ScreenShot](https://github.com/Muiasar-Al-Ani/javaScript-code-quiz/blob/main/images/JavaScript-Quiz-4.png)
+![ScreenShot](https://github.com/Muiasar-Al-Ani/JQuery-Work-Day-Scheduler/blob/main/screenshots/WorkDayScheduler1.png)
+![ScreenShot](https://github.com/Muiasar-Al-Ani/JQuery-Work-Day-Scheduler/blob/main/screenshots/WorkDayScheduler2.png)
+
 
 
 ### Video of the running JQuery Work Day Scheduler!
 
-[The Demo Video](https://drive.google.com/file/d/1B62fckB2H-_JiopKTtNQv8EGGMOdOgCd/view?usp=sharing)
+[The Demo Video](https://drive.google.com/file/d/18e0NMAzAtz9YolL2p00q2mnjb8qw3BmO/view?usp=sharing)
